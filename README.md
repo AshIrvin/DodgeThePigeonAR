@@ -12,6 +12,8 @@ We're a nation of mobile phone users staring at out phones while walking on the 
 
 Save Dodge the pidgeon from getting trampled on by other people!
 
+Using your phone's camera facing the ground, a pigeon will appear and you need to navigate it to safety while making sure it gets all the bread crumbs.
+
 ## Technologies
 Project is created with:
 * Unity
