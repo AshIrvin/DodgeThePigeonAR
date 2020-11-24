@@ -338,3 +338,12 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/UserSettings
+/Temp
+/ProjectSettings
+/Library
+/DodgeThePigeonAR.sln
+/Assembly-CSharp.csproj
+/Assets/Scenes
+/Assets/Prefabs
+/Assets/Materials
